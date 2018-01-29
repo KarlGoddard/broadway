@@ -3,8 +3,8 @@ body {
   font-family: Helvetica;
 }
 
-#home {
-  background-image: url("./resources/images/the-flatiron-building.png");
+#home, #stripe {
+  background-image: url("../../resources/images/the-flatiron-building.png");
 }
 
 h1 {
